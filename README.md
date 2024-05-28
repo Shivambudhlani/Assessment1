@@ -9,4 +9,5 @@ Step 4 - Access the APIs.
 
 Considerations:
 -> Make sure to provide correct path of csv file in POST /iot/event/v1 API.
+
 -> Make sure csv file doesnt contains Junk characters.
